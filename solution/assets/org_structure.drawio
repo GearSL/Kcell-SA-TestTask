@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2023-09-13T12:31:00.507Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="X6RDsugOiaIcawLahIy0" version="21.3.8" type="device">
+  <diagram id="nunI3avS6iweZ32lkM8Y" name="Page-1">
+    <mxGraphModel dx="1570" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rq3PfeS93UwtuZ3GBgnR-1" target="rq3PfeS93UwtuZ3GBgnR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq3PfeS93UwtuZ3GBgnR-1" value="Product owner" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rq3PfeS93UwtuZ3GBgnR-2" target="JwYO3jtZKPEIbxR2W0qp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rq3PfeS93UwtuZ3GBgnR-2" target="JwYO3jtZKPEIbxR2W0qp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq3PfeS93UwtuZ3GBgnR-2" value="System analyst" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JwYO3jtZKPEIbxR2W0qp-2" target="JwYO3jtZKPEIbxR2W0qp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-2" value="Back Dev &lt;br&gt;Team Lead" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JwYO3jtZKPEIbxR2W0qp-5" target="JwYO3jtZKPEIbxR2W0qp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-5" value="Mob Dev&lt;br&gt;Team Lead" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-7" value="Backed Developer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-9" value="Android Developer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-12" value="iOS Developer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-13" value="QA Engineer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-14" value="QA Engineer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwYO3jtZKPEIbxR2W0qp-15" value="Backed Developer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
